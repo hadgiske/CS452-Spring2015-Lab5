@@ -1,1 +1,5 @@
-name, date, description
+Katie Hadgis
+4/21/2015
+Lab 5
+
+Uses "jack" object from previous labs and casts its shadow on a plane.
